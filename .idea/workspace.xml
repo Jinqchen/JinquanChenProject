@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9656f53-1b49-4717-a38f-26c7e3373532" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ujLDYfjIi0YXGeSyQXMd7KrwsJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Lianliankan/src/musicfile" />
+      <recent name="$PROJECT_DIR$/Lianliankan/src" />
+      <recent name="$PROJECT_DIR$/Lianliankan/src/GamePlay" />
+      <recent name="$PROJECT_DIR$/Lianliankan/src/gameimage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lianliankan/src/gameimage" />
+      <recent name="$PROJECT_DIR$/Lianliankan/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GamePlay.Play" />
+      <module name="Lianliankan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GamePlay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Play" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9656f53-1b49-4717-a38f-26c7e3373532" name="Default Changelist" comment="" />
+      <created>1625173932286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625173932286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="399" y="136" key="#Project_Structure" timestamp="1629074459361">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="399" y="136" key="#Project_Structure/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629074459361" />
+    <state x="832" y="481" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625174079125">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="832" y="481" key="#com.intellij.fileTypes.FileTypeChooser/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1625174079125" />
+    <state x="553" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625177638020">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="553" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1625177638020" />
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom" timestamp="1630618928689">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629075942970" />
+    <state width="1358" height="264" key="GridCell.Tab.0.bottom/0.25.1680.1025@0.25.1680.1025" timestamp="1630618928689" />
+    <state width="1358" height="264" key="GridCell.Tab.0.center" timestamp="1630618928688">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.center/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629075942969" />
+    <state width="1358" height="264" key="GridCell.Tab.0.center/0.25.1680.1025@0.25.1680.1025" timestamp="1630618928688" />
+    <state width="1358" height="264" key="GridCell.Tab.0.left" timestamp="1630618928688">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.left/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629075942968" />
+    <state width="1358" height="264" key="GridCell.Tab.0.left/0.25.1680.1025@0.25.1680.1025" timestamp="1630618928688" />
+    <state width="1358" height="264" key="GridCell.Tab.0.right" timestamp="1630618928689">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state width="1358" height="264" key="GridCell.Tab.0.right/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1629075942969" />
+    <state width="1358" height="264" key="GridCell.Tab.0.right/0.25.1680.1025@0.25.1680.1025" timestamp="1630618928689" />
+    <state x="382" y="154" key="SettingsEditor" timestamp="1625174265509">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="382" y="154" key="SettingsEditor/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1625174265509" />
+    <state x="613" y="346" width="597" height="490" key="find.popup" timestamp="1626043011484">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="613" y="346" width="597" height="490" key="find.popup/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1626043011484" />
+    <state x="212" y="179" key="new project wizard" timestamp="1625173972824">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="212" y="179" key="new project wizard/-1920.25.1920.1055/0.25.1680.1025@0.25.1680.1025" timestamp="1625173972824" />
+    <state x="576" y="282" width="670" height="676" key="search.everywhere.popup" timestamp="1629667918119">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="576" y="282" width="670" height="676" key="search.everywhere.popup/0.25.1680.1025@0.25.1680.1025" timestamp="1629667918119" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lianliankan/src/GamePlay/GamePanel.java</url>
+          <line>228</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
